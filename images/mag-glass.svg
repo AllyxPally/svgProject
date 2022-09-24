@@ -1,0 +1,6 @@
+<svg witdh="225" height="225">
+     <symbol id="mag-glass" viewbox="0 0 225 225">   
+        <circle cx="110" cy="110" r="100" stroke-width="20" fill="white" stroke="purple"/>
+        <!--<line " stroke-width="20"  stroke="purple" stroke-linecap="round" stroke-linejoin="round"/>-->
+    </symbol>
+    </svg>
